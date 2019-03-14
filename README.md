@@ -2,7 +2,8 @@
 My thoughts on various identiy and access management products by forgerock.
 
 ### Background: What is IAM?
-According to [Yip et al](https://learning.oreilly.com/library/view/identity-management-a/9781583470930/),
+According to [Yip et al](https://learning.oreilly.com/library/view/identity-management-a/9781583470930/)
+
 *Managing identities in an organization is simply **organizing** the collection, storage, and disbursement of data specific to people within the organization and to persons and companies external to the organization, be they customers or suppliers. It is critical for organizations to put such management in place to avoid excessive costs and potential litigation.*
 
 This is important so as to ensure 
@@ -19,5 +20,10 @@ According to Wikipedia,
 
 It's needed for creating users, logging them in, services (personalized content) and identity federation (authentication without a password.)
 
+## Forgerock Platforms: Access Management
 
+*todo* 
 
+### Intelligent Authentication
+
+*to read*
